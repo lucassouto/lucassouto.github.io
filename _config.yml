@@ -44,7 +44,7 @@ theme_settings:
   youtube:
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-116731367-1
   disqus_shortname: "lucassouto-github-io"
   katex: true # Enable if using math markup
   portfolio: false
