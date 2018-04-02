@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://lucassouto.github.io"
+permalink: /:title/
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
