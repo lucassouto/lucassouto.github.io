@@ -87,7 +87,6 @@ Não Passou
 Quando tentamos fazer o commit do nosso `teste.py`, ele viu que o arquivo não condizia com o codestyle e abortou a operação, não "commitando" aquele código e printando a mensagem `Não Passou` que botamos no hook. Se consertarmos esse style, ele irá passar.
 
 ```
-(teste-git-LhWtE8kx) ➜  teste-git git:(master) ✗ vim teste.py                    
 (teste-git-LhWtE8kx) ➜  teste-git git:(master) ✗ git commit -am "Test pre-commit hook"
 Passou
 [master ca72ff0] Test pre-commit hook
