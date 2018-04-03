@@ -48,7 +48,7 @@ theme_settings:
   google_analytics: UA-116731367-1
   disqus_shortname: "lucassouto-github-io"
   katex: true # Enable if using math markup
-  portfolio: false
+  portfolio: true
   search: true
   tags: true
   
