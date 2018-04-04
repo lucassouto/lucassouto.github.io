@@ -2,6 +2,7 @@
 layout: post
 title: Palestras
 img: "assets/img/portfolio/talks.jpg"
+date: 2018-04-03
 tags: [palestras]
 ---
 
