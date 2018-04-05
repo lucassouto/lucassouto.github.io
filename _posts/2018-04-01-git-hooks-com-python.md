@@ -2,6 +2,7 @@
 layout: post
 title: Git Hooks com Python
 subtitle: "print(“Hello World of Devs!”)"   
+feature-img: "assets/img/git-hooks.png"
 tags: [git, hooks, python]
 ---
 
