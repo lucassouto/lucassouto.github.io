@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Palestras
-img: "assets/img/portfolio/talks.jpg"
+title: Palestras/Apresentações
+img: "assets/img/portfolio/talk.jpg"
 date: 2018-05-11
 tags: [palestras]
 ---
